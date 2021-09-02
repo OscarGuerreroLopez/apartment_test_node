@@ -1,0 +1,20 @@
+version: "3"
+
+services:
+  apartment:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: apartment
+    container_name: apartment
+    restart: always
+    env_file: .env
+    ports:
+      - "5000:5000"
+
+    networks:
+      - api-apartment-network
+
+networks:
+  api-apartment-network:
+    driver: bridge
