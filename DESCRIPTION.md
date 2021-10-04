@@ -13,16 +13,20 @@ We are looking forward to your thoughts!
 
 Please create a Rest API in Node.js. You are free to choose the framework and schema of your choice.
 ! API should have a README file on instructions on how to run it !
-API should have following functionalities: Main Part: • User:
-• Register
-• Authentication • Apartment
-• Create (linked to user) • Search
-• with filters like city, country, rooms
-• based on geo location , nearest to 10KM, 20KM • Favorite
-• Mark apartment as favorite
-• List favorites
+API should have following functionalities:
 
-### Bonus Part (Optional):
+#### Main Part:
 
-• Use Graphql
-• Add testing (just as proof of concept)
+- User:
+  - Register
+  - Authentication • Apartment
+  - Create (linked to user) • Search
+- with filters like city, country, rooms
+- based on geo location , nearest to 10KM, 20KM • Favorite
+- Mark apartment as favorite
+- List favorites
+
+#### Bonus Part (Optional):
+
+- Use Graphql
+- Add testing (just as proof of concept)
