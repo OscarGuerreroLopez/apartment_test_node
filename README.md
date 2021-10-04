@@ -2,7 +2,9 @@
 
 ## Description:
 
-Back end solution for the apartment test
+Back end solution for the apartment test.
+
+The assignment can be seen at DESCRIPTION.md
 
 It is composed of several routes.
 
