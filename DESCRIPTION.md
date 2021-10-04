@@ -20,9 +20,11 @@ API should have following functionalities:
 - User:
   - Register
   - Authentication • Apartment
-  - Create (linked to user) • Search
+  - Create (linked to user)
+  - Search
 - with filters like city, country, rooms
-- based on geo location , nearest to 10KM, 20KM • Favorite
+- based on geo location , nearest to 10KM, 20KM
+- Favorite
 - Mark apartment as favorite
 - List favorites
 
